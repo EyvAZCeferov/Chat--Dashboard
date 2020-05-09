@@ -1,2 +1,3 @@
-# Chat--Dashboard
- This dashboard coded by Eyvaz Cafarov
+### *Chat--Dashboard*
+ This dashboard coded by **Eyvaz** **Cəfərovv**
+ 
